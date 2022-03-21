@@ -1,6 +1,14 @@
 {
     "name":"JustSwap Default List",
     "tokens":[
+         {
+            "symbol":"LGF",
+            "address":"TNhQvaZPerVLF6YUajsTEkHfzr7jBNXCR",
+            "chainId":1,
+            "decimals":18,
+            "name":"Legendary Finance",
+            "logoURI":"https://www.linkpicture.com/q/IMG1645697294176.png"
+        },
         {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
